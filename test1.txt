@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 MVP666123
 123456
 i git good qwer
+add a new job
